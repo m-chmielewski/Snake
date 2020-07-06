@@ -1,4 +1,4 @@
 # Snake
 #### Classic Snake game with WPF UI
 
-![Snake](Snake.gif)
+<img src="Snake.gif" width="400" height="500">
